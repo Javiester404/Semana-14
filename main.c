@@ -4,7 +4,7 @@ int main() {
     char texto[50];
     int cont = 0;
     int num = 0;
-    int max = 0, min = 50;
+    int max = 0, min = 0;
 
     printf("Ingrese el texto a medir: ");
     fflush(stdin);//Elimina la basura del programa, ayuda a corregir problemas con los bucles
